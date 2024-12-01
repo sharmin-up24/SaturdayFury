@@ -6,8 +6,8 @@ public class assignment_2_5 {
 	
 		public static void main(String[] args) {
 
-			int Num = 8;
-			System.out.println("Multiplication Table of 8");
+			int Num = 9;
+			System.out.println("Multiplication Table of 9");
 			System.out.println();
 			
 			for (int i = 1; i<= 10; i ++) {
