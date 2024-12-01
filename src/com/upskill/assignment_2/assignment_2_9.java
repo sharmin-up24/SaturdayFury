@@ -5,8 +5,8 @@ public class assignment_2_9 {
 	public static void main(String[] args) {
 //	9. Write a program to swap two string variables (Talen, Tech) and display result on the screen.
 		
-		String a = "Talen";
-		String b = "Tech";
+		String a = "Up";
+		String b = "Skill";
 		String Result;
 		
 		Result = a;
