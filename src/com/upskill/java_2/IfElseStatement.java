@@ -3,8 +3,8 @@ package com.upskill.java_2;
 public class IfElseStatement {
 
 	public static void main(String[] args) {
-		
-		int age = 105;
+		//change for git
+		int age = 95;
 		
 		if ( age <=13) {
 			System.out.println("You are children");
