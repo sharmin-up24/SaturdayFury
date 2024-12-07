@@ -3,8 +3,8 @@ package com.upskill.java_2;
 public class SwitchCase {
 
 	public static void main(String[] args) {
-
-		int day = 3;
+// day changed
+		int day = 7;
 		
 		switch(day) {
 		case 1:

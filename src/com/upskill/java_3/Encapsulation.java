@@ -28,7 +28,7 @@ public class Encapsulation {
 				public void setSSN(int value) {
 					ssn = value;
 					
-					
+		System.out.println("Hello");			
 					
 					
 		
