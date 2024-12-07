@@ -12,12 +12,12 @@ public class AccessModifier {
 
 	public String name = "Sharmin";	 // public - Any class can access 
 	
-	private int age = 28; 	// private - Only same class can access
+	private int age = 32; 	// private - Only same class can access
 	
 	protected int  ssn = 123456789; 	// protected - classes in the same package and subclass
 	
 	String Address = "Heritage Tower"; 	// default - classes in same package can access
 
-
+// Changed for git practise
 	
 }
