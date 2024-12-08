@@ -24,13 +24,13 @@ public class InterfaceImplementation implements Interface {
 
 	@Override
 	public String iname() {
-		String name = "UpSkill";
+		String name = "Sharmin";
 		return name;
 	}
 
 	@Override
 	public int iage() {
-		int age = 49;
+		int age = 51;
 		return age;
 	}
 
