@@ -24,13 +24,13 @@ public class Constructor {
 	}
 		
 	public static void main(String[] args ) {
-		Constructor obj = new Constructor( "Sharmin");
-		System.out.println(obj.studentName);
+		Constructor obj1 = new Constructor( "Sharmin");
+		System.out.println(obj1.studentName);
 		
-		Constructor obj2 = new Constructor( 32);
+		Constructor obj2 = new Constructor( 51);
 		System.out.println(obj2.studentAge);
 		
-		Constructor obj3 = new Constructor( "Sharmin", 32);
+		Constructor obj3 = new Constructor( "Sharmin", 51);
 		System.out.println(obj3.studentName);
 		System.out.println(obj3.studentAge);
 		
