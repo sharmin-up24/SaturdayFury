@@ -12,13 +12,13 @@ public class Singleton {
 	private static Singleton SingletonObj = new Singleton();
 	
 	protected void demo() {
-		System.out.println("Demo nethod for sigletone class");
+		System.out.println("Demo method for singleton class");
 	}
 	protected void fury() {
-		System.out.println("Demo nethod for fury class");
+		System.out.println("Demo method for fury class");
 	}
 	protected void loki() {
-		System.out.println("Demo nethod for loki class");
+		System.out.println("Demo method for loki class");
 	}
 	public static Singleton getInstance() {		// getter method(read only)
 		return SingletonObj;

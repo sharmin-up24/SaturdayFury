@@ -18,12 +18,13 @@ public abstract class AbstractClass {
 		public abstract void iengine();
 		
 		public abstract String iname();
+		
 		public String name() {
-			String name = "UpSkill";
+			String name = "Sharmin";
 			return name;
 		}
 		public int age() {
-			int age = 49;
+			int age = 51;
 			return age;
 		}
 		public boolean ev() {
